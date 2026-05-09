@@ -26,9 +26,7 @@ The goal is to create a professional online presence where I can present my work
 
 ## Website Screenshot
 
-![Portfolio Screenshot](./assets/screenshot.png)
-
-> Replace `./assets/screenshot.png` with the real path to your screenshot.
+![Portfolio Preview](./screenshots/Hero-section.png)
 
 ## Figma Design
 
