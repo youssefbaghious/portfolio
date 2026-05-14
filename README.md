@@ -26,7 +26,8 @@ The goal is to create a professional online presence where I can present my work
 
 ## Website Screenshot
 
-![App](Hero.png)
+<img width="1888" height="946" alt="Hero" src="https://github.com/user-attachments/assets/7422e04d-717e-4938-baa5-9f7579f47365" />
+
 
 ## Figma Design
 
@@ -36,9 +37,7 @@ Link to the Figma design:
 ## Live Version
 
 Link to the live website:  
-[View the Live Portfolio](https://your-username.github.io/repository-name/)
-
-> Replace this link with the real link to your deployed website.
+[View the Live Portfolio](https://youssefbaghious.github.io/portfolio/)
 
 ## Installation and Usage
 
