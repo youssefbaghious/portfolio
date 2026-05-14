@@ -1,11 +1,11 @@
-# Personal Portfolio
+# 🌐 Personal Portfolio
 
-## Project Description
+## 📌 Project Description
 
 This project is a personal portfolio website designed to showcase my profile, skills, projects, and contact information.  
 The goal is to create a professional online presence where I can present my work, achievements, and journey as a web developer.
 
-## Main Features
+## ✨ Main Features
 
 - Homepage with a short introduction
 - “About Me” section to introduce my profile
@@ -15,7 +15,7 @@ The goal is to create a professional online presence where I can present my work
 - Responsive design for desktop, tablet, and mobile devices
 - Simple and intuitive navigation
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -24,22 +24,22 @@ The goal is to create a professional online presence where I can present my work
 - Git / GitHub
 - GitHub Pages for deployment
 
-## Website Screenshot
+## 📸 Website Screenshot
 
 <img width="1888" height="946" alt="Hero" src="https://github.com/user-attachments/assets/7422e04d-717e-4938-baa5-9f7579f47365" />
 
 
-## Figma Design
+## 🎨 Figma Design
 
 Link to the Figma design:  
 [View the Figma Design](https://www.figma.com/design/fYVqZdtMXLnFcBp0OWL1Ke/Portfolio?node-id=0-1&t=SfvwBrbDgRQlkPN8-1)
 
-## Live Version
+## 🚀 Live Version
 
 Link to the live website:  
 [View the Live Portfolio](https://youssefbaghious.github.io/portfolio/)
 
-## Installation and Usage
+## ⚙️ Installation and Usage
 
 1. Clone the repository:
 
