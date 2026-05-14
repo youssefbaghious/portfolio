@@ -26,7 +26,7 @@ The goal is to create a professional online presence where I can present my work
 
 ## Website Screenshot
 
-![Portfolio Preview](./screenshots/Hero-section.png)
+![App](screenshots/Hero.png)
 
 ## Figma Design
 
