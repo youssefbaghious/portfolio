@@ -224,6 +224,8 @@ body {
 .hero-left {
   flex: 1;
   max-width: 480px;
+  position: relative;
+  z-index: 10;
 }
 
 .hero-greeting {
@@ -2592,6 +2594,8 @@ body {
     width: 100%;
     text-align: center;
     padding: 14px 20px;
+    display: block;
+    box-sizing: border-box;
   }
 
   .hero-photo-circle {
